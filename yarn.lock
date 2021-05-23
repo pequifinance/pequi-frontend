@@ -1828,9 +1828,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@Mofifinance/mofi-uikit#main":
+"@pancakeswap-libs/uikit@Pequifinance/pequi-uikit#master":
   version "0.10.2"
-  resolved "https://codeload.github.com/Mofifinance/mofi-uikit/tar.gz/dd031d1e3663a304611927dbea24e9bb1c5889a4"
+  resolved "https://codeload.github.com/Mofifinance/mofi-uikit/tar.gz/master"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
