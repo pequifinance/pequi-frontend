@@ -1,6 +1,6 @@
 # Pequi Frontend
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7bebf1a3-be7b-4165-afd1-446256acd5e3/deploy-status)](https://app.netlify.com/sites/pancake-prod/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b0440c86-a20d-4481-8225-5166ed99e1a9/deploy-status)](https://app.netlify.com/sites/pequifinance/deploys)
 
 This project contains the main features of the pancake application.
 
